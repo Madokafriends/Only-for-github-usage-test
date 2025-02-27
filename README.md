@@ -1,2 +1,10 @@
-# Only-for-github-usage-test
-None of the textfile is useful, but for the test of freshman using github such as add, delete, branch or data Rollback 
+# GitHub 操作练习仓库 生成来自chatgpt
+
+欢迎来到这个仓库！这是一个专为 **Git 和 GitHub 初学者** 设计的练习项目。在这个仓库中，没有任何文件是有意义的，你可以做任何的实验，包括：
+
+- 添加文件
+- 删除文件
+- 创建和切换分支
+- 回档（恢复历史版本）
+- 合并分支
+- 推送到远程仓库等
